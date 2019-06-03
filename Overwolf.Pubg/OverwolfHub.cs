@@ -7,8 +7,8 @@ namespace Overwolf.Pubg
     {
         public void SendData(object data)
         {
-            Console.Write(data);
-            Clients.All.message(data);
+            //Console.Write(data);
+            //Clients.All.message(data);
         }
     }
 }
